@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My_Wordle2</string>
+    <string name="button">Button</string>
+    <string name="Guess">Name</string>
+    <string name="Guess1">TextView</string>
+    <string name="UserGuess1">TextView</string>
+    <string name="CheckGuess1">TextView</string>
+    <string name="CheckUser1">TextView</string>
+    <string name="Guess2">TextView</string>
+    <string name="UserGuess2">TextView</string>
+    <string name="CheckGuess2">TextView</string>
+    <string name="CheckUser2">TextView</string>
+    <string name="Guess3">TextView</string>
+    <string name="UserGuess3">TextView</string>
+    <string name="CheckGuess3">TextView</string>
+    <string name="CheckUser3">TextView</string>
+</resources>
